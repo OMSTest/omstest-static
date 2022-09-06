@@ -1,0 +1,3 @@
+[submodule "pack1"]
+	path = pack1
+	url = https://github.com/OMSTest/omstest-static-pack1.git
